@@ -84,10 +84,4 @@ FROM employees\
 GROUP BY last_name\
 ORDER BY frequency DESC;
 
-## **Bonus**
-Generate a visualization of the data by: 
-  1. Importing the SQL database into Pandas. 
-  2. Create a histogram to visualize the most common salary ranges for employees and average salary by title. 
-  3. Summarize data engineering steps in markdown format. 
-  
   
